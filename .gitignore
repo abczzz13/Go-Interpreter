@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# Ignoring accessory code of the Writing an Interpreter in Go book
+code
